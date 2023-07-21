@@ -34,4 +34,6 @@ Every file named go.mod is a go module file
 
 > In your terminal enter
 
-`go work init`
+```
+go work init
+```
