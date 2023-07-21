@@ -29,3 +29,9 @@ go run name_of_go_file.go then press enter
 `go fmt name_of_go_file.go then hit enter`
 
 Every file named go.mod is a go module file
+
+### To create a workspace
+
+> In your terminal enter
+
+`go work init`
