@@ -1,4 +1,5 @@
 # go-prep
+
 Slightly advanced go
 
 #### After cloning the repo into your machine
@@ -11,7 +12,7 @@ Get into a each folders name using cd command
 
 ```
 go mod init name_of_module then press enter
-```  
+```
 
 ### To run go file
 
@@ -25,6 +26,6 @@ go run name_of_go_file.go then press enter
 
 > In your terminal at the current directory enter
 
-```
+`go fmt name_of_go_file.go then hit enter`
 
-> Every file named go.mod is  a go module file
+Every file named go.mod is a go module file
